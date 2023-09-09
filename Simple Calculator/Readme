@@ -1,0 +1,5 @@
+A simple C++ program that allows the user to input two numbers and choose an arithmetic operation (addition, subtraction, multiplication, or division) to perform
+
+This program first prompts the user to enter two numbers and then asks for the desired arithmetic operation. It uses a switch statement to perform the selected operation and handles division by zero as an error case. The result is then displayed to the user.
+
+You can compile and run this code in a C++ development environment to perform basic arithmetic operations.
